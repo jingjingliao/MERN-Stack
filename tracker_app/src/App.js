@@ -16,7 +16,7 @@ function App() {
         <br />
         <Route path="/" exact component={ExercisesList} />
         <Route path="/edit/:id" component={EditExercise} />
-        <Route path="/add" component={CreateExercise} />
+        <Route path="/create" component={CreateExercise} />
         <Route path="/user" component={CreateUser} />
       </div>
     </Router>

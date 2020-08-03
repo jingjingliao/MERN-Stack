@@ -2,6 +2,10 @@
 
 ## with MongoDB Atlas and Google Cloud Platform
 
+![](images/Tracker_app1.png)
+![](images/create.png)
+![](images/create_user.png)
+
 1, Introduction to MERN
 
 - MongoDB: A document-based open source database
